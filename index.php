@@ -196,7 +196,7 @@ if (defined('ENVIRONMENT'))
  * LOAD THE BOOTSTRAP FILE
  * --------------------------------------------------------------------
  *
- * And away we go...
+ * And away we go... the last of us
  *
  */
 require_once BASEPATH.'core/CodeIgniter.php';
